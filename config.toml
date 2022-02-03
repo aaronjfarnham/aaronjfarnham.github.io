@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://aaronjfarnham.github.io"
 theme           = "hugo-webslides-master"
 languageCode    = "en-us"
 title           = "A Hugo theme for creating Webslides.js presentations"
