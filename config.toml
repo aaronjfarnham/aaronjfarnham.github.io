@@ -1,5 +1,5 @@
 baseurl         = "/"
-theme           = "hugo-webslides"
+theme           = "hugo-webslides-master"
 languageCode    = "en-us"
 title           = "A Hugo theme for creating Webslides.js presentations"
 
