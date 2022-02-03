@@ -6,8 +6,8 @@ URL - https://aaronjfarnham.github.io/
 
 https://themes.gohugo.io/themes/hugo-webslides/
 
-# Lessons learned
-
+# Useful links
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
 https://stackoverflow.com/questions/48919200/github-pages-only-showing-readme-file
 
 # TODO
