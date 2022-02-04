@@ -15,9 +15,10 @@ title = "aaronjfarnham"
 Nothing to see here ¯\\\_(ツ)_/¯
 
 ---
-<!--: .wrap .size-70 ..aligncenter -->
+<!-- : .aligncenter -->
 
-Yet 👀
+# Yet 👀
+
 
 ---
 
